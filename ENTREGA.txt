@@ -1,0 +1,10 @@
+ENTREGA - SISTEMA DE BIBLIOTECA POO II
+
+Archivos incluidos:
+- biblioteca.py: código fuente del sistema.
+- libros.txt: información persistente de los libros.
+- prestamos.txt: información persistente de los préstamos.
+- README.md: instrucciones y secuencia de pruebas.
+- evidencias/: capturas visuales de las pruebas solicitadas.
+
+Ejecución: python biblioteca.py
